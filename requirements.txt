@@ -1,0 +1,5 @@
+sentence_splitter==1.4
+SentencePiece==0.1.96
+streamlit==1.10.0
+torch==1.11.0
+transformers==4.20.1
