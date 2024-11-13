@@ -1,2 +1,2 @@
 # HumanizeAI
-Humanize AI Text
+Humanize AI Text using AI Agents
