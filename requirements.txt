@@ -1,3 +1,4 @@
 streamlit
 groq
 git+https://github.com/chrislatimer/microagent.git
+python-dotenv
